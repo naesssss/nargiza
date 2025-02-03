@@ -10,7 +10,7 @@
 - 🚀 Я ищу работу фронтенд-разработчиком — удалённо или в офисе.
 - 💻 Все мои проекты доступны [здесь](https://github.com/ваш_профиль?tab=repositories).
 - ✨ Codewars:  
-![Codewars](https://www.codewars.com/users/ваш_ник/badges/large)
+![Codewars](https://www.codewars.com/users/naesss/badges/large)
 
 ---
 
