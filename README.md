@@ -1,4 +1,4 @@
-# Привет 👋, я [Наргиза]
+# Привет 👋, я Наргиза
 
 ### Мои контакты:
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nkonokbaeva835@gmail.com)
